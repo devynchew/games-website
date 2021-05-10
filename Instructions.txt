@@ -1,0 +1,5 @@
+1. To import the tables, open mysql workbench and create a new schema called sp_games.
+2. Go to server > data import > import from the 'SQL' file > select all 4 sql files and import
+3. For the backend folder, cd to the server folder, then do nodemon server.js to start the server.
+4. For the frontend folder, the website is build using React. Simply do a npm start and the website will open in your browser.
+
